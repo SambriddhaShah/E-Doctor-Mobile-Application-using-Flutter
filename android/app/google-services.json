@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647539715989",
+    "project_id": "signin-e-doctor",
+    "storage_bucket": "signin-e-doctor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647539715989:android:6cff5b5de4f08f3f97d09c",
+        "android_client_info": {
+          "package_name": "com.example.edoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647539715989-5o3atn3jqr95rhivdc5flp8fttfhunq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuNU4FvYtfGExhOQ92A4wl61NYVfiW5Is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647539715989-5o3atn3jqr95rhivdc5flp8fttfhunq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
